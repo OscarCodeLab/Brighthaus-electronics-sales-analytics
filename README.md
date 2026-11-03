@@ -309,8 +309,9 @@ Each assumption is recorded in the Issue Log with its reasoning.
 
 | File | Contents |
 |---|---|
-| `BrightHaus_Electronics_Pivot_Charts.xlsx` | Cleaned data model, measures and the five-page dashboard |
-| `BrightHaus_Issue_Log_Updated.xlsx` | Issue Log, Validation Checks and Raw Issue Coverage |
+| `BrightHaus_Raw_Dataset.xlsx` | Original messy dataset containing raw records, data-quality issues, business questions and data documentation |
+| `BrightHaus_Cleaned_Dataset.xlsx` | Cleaned data model, measures and the five-page dashboard |
+| `BrightHaus_Issue_Log.xlsx` | Issue Log, Validation Checks and Raw Issue Coverage |
 | `images/` | Dashboard and data model screenshots |
 
 ---
