@@ -8,7 +8,7 @@
 ![DAX](https://img.shields.io/badge/DAX-Measures-0F6BB8?style=flat)
 ![Issue Log](https://img.shields.io/badge/Issue_Log-49_issues_closed-B22222?style=flat)
 
-I took seven raw tables from five source systems (about 33,700 order lines) and turned them into a clean, validated data model and an interactive dashboard for a fictional Nigerian electronics retailer. Along the way I investigated 49 data problems. For each one I worked out the cause, applied a fix and checked the result against the data. Where the data could not recover a value, I labelled the gap instead of inventing one.
+I took seven raw tables from five source systems (about 33,700 order lines) and turned them into a clean, validated data model and an interactive dashboard for a  Nigerian electronics retailer. Along the way I investigated 49 data problems. For each one I worked out the cause, applied a fix and checked the result against the data. Where the data could not recover a value, I labelled the gap instead of inventing one.
 
 ![Dashboard overview](images/brighthaus-overview.png)
 
@@ -20,7 +20,7 @@ I took seven raw tables from five source systems (about 33,700 order lines) and 
 
 | | |
 |---|---|
-| **Business** | BrightHaus Electronics Nigeria Ltd (fictional), January 2022 to December 2025 |
+| **Business** | BrightHaus Electronics Nigeria Ltd, January 2022 to December 2025 |
 | **Tools** | Excel, Power Query, Data Model (Power Pivot), DAX, PivotTables, PivotCharts, Slicers |
 | **Raw data** | 33,708 order lines (31,974 in Orders plus 1,734 from a separate marketplace feed), 5,945 customer records, 198 products, 3,709 return records, 200 employee records, 31 location records |
 | **Data model** | 8 tables (6 data tables, a Calendar and a measures table), 6 relationships, 30+ measures |
@@ -47,9 +47,9 @@ I took seven raw tables from five source systems (about 33,700 order lines) and 
 
 ## The business problem
 
-BrightHaus Electronics Nigeria Ltd is a fictional omnichannel retailer of consumer electronics, home appliances and power solutions, founded in Lagos in 2016. It has 26 retail locations across 18 cities plus three fulfilment hubs, sells about 200 products in eight categories, and takes orders through six channels (In-Store, Website, Mobile App, WhatsApp, a Corporate Sales desk and a Marketplace partner).
+BrightHaus Electronics Nigeria Ltd is a  omnichannel retailer of consumer electronics, home appliances and power solutions, founded in Lagos in 2016. It has 26 retail locations across 18 cities plus three fulfilment hubs, sells about 200 products in eight categories, and takes orders through six channels (In-Store, Website, Mobile App, WhatsApp, a Corporate Sales desk and a Marketplace partner).
 
-After four turbulent years (currency devaluation, rapid inflation, a shift to online selling and heavy promotions), the CCO and CFO wanted a trustworthy picture of performance. Nobody had reconciled the five source systems (POS, e-commerce, CRM, HR and the marketplace export), so the data went through investigation, cleaning and validation before any analysis. All data is fictional and generated for portfolio practice.
+After four turbulent years (currency devaluation, rapid inflation, a shift to online selling and heavy promotions), the CCO and CFO wanted a trustworthy picture of performance. Nobody had reconciled the five source systems (POS, e-commerce, CRM, HR and the marketplace export), so the data went through investigation, cleaning and validation before any analysis. All data is  and generated for portfolio practice.
 
 ---
 
@@ -291,7 +291,7 @@ Five pages, moving from an executive summary into each functional area: **Overvi
 
 Each assumption is recorded in the Issue Log with its reasoning.
 
-- **The data is fictional.** Results describe a made-up business and do not generalise.
+- Results describe a made-up business and do not generalise.
 - **Net Sales is before refunds.** Lines with status Returned count as valid sales. Net Sales after refunds is shown separately.
 - **Two margins are reported.** Gross margin (17.31%) is before refunds and profit margin (13.23%) is after refunds.
 - **Commission cost is an estimate,** not an actual payout.
