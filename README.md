@@ -253,7 +253,7 @@ Five pages, moving from an executive summary into each functional area: **Overvi
 **Interpretation:** sales are concentrated in a few segments but not dependent on any one customer.
 **Next question:** what would it take to grow Corporate and Government accounts?
 
-![Customers](images/brighthaus-customers.png)
+![Customers](images/brighthaus-Customer.png)
 
 ### 5. Employees and Stores
 
@@ -269,7 +269,7 @@ Five pages, moving from an executive summary into each functional area: **Overvi
 **Interpretation:** sales performance sits with a small group of people and stores while self-service channels grow.
 **Next question:** what separates the top employees and stores from the rest?
 
-![Employees and Stores](images/brighthaus-employees-stores.png)
+![Employees and Stores](images/brighthaus-Employees.png)
 
 ---
 
