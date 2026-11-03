@@ -220,7 +220,7 @@ Five pages, moving from an executive summary into each functional area: **Overvi
 **Interpretation:** the heaviest discounting sits where margin is thinnest.
 **Next question:** do Black Friday volumes make up for the lower margin?
 
-![Sales](images/brighthaus-sales.png)
+![Sales](images/brighthaus-Sales.png)
 
 ### 3. Products
 
